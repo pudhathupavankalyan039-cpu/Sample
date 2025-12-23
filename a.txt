@@ -1,0 +1,2 @@
+hi 
+this is a.txt in f1 
