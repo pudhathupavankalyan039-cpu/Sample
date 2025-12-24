@@ -1,2 +1,2 @@
-hi
+hi hi
 this d.txt in f2
